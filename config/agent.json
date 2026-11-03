@@ -1,0 +1,1 @@
+{"intervalSeconds":30,"checks":["health","disk"]}
